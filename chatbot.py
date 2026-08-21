@@ -17,4 +17,4 @@ while True:
         break
         
     reply = responses.get(clean_input, "I do not understand.")
-    print(f"Bot: {reply}")
+    print(f"Bot: {reply}") 
